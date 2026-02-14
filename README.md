@@ -1,3 +1,5 @@
+用slimevr遥操机器人
+
 # Genesis Humanoid
 
 **Genesis Humanoid** is an all-in-one humanoid research platform on top of the [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) simulator. It supports real-time human-to-humanoid retargeting, includes different motion dataset with unified format, provides an end-to-end learning pipeline, and offers a modular low-level control testbed for experimentation.
