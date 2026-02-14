@@ -134,3 +134,6 @@ explicit = true
 no_sort_tables = true
 sort_inline_arrays = true
 trailing_comma_inline_array = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/genesis_humanoid"]
